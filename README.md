@@ -6,9 +6,9 @@ Advance file server with secure authentication
 https://youtu.be/FfHpQkJsCSM
 
 ### Live Demo
-[https://fileserver.faketi.xyz/](https://demofileserver.faketi.xyz/)
+https://demofileserver.faketi.xyz/
 username: demo@faketi.xyz
-password: 
+password: 12345678
 
 
 ### Source Codes
